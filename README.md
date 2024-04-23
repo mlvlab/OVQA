@@ -24,7 +24,7 @@ sh setup.sh
 ```
 ## Data Preparation
 ### Download preprocessed data, visual features
-Pretrained checkpoint, preprocessed data, and data annotations are provided [here](https://drive.google.com/drive/folders/1WrZq2kN5n4iWuTGRc9bVmmdZkIlfSDEl). You can download pretrained DeBERTa-v2-xlarge model [here](https://huggingface.co/microsoft/deberta-v2-xlarge).
+Pretrained checkpoint, preprocessed data, and data annotations are provided [here](https://drive.google.com/drive/folders/1HcrMsINkNcRUfnZMd15l9AH0R9X4qvQG). You can download pretrained DeBERTa-v2-xlarge model [here](https://huggingface.co/microsoft/deberta-v2-xlarge).
 
 Then, place the files as follows:
 
